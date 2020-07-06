@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\bin\Debug\netcoreapp3.1\Aula31_whatsapp.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula31_whatsapp\obj\Debug\netcoreapp3.1\Aula31_whatsapp.genruntimeconfig.cache
